@@ -7,4 +7,5 @@ The purpose of my project is to demonstrate my knowledge of using /bin/bash comm
 
 What is in my command:
 
-My project contains
+My project contains a bash script that prints 1 to 50 on the terminal.
+
