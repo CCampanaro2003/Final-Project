@@ -1,7 +1,7 @@
 # Final-Project
 This is my final project for my Linux class.
 # What's the purpose of this project?
-The purpose of my project is to demonstrate my knowledge of using the /bin/bash command and what i've learned in the class.
+The purpose of my project is to demonstrate my knowledge of using the /bin/bash command.
 
 
 
@@ -20,4 +20,7 @@ for i in {1..50}; do
   
 done
 
-To use this command you must type ./myscript.sh
+To use this command you must type ./myscript.sh then hit enter and the result is that it will print the numbers 1 through 50 on the terminal.
+# Addidional Notes
+
+What this project has taught me is how to create a bash script and also how to use GitHub.
