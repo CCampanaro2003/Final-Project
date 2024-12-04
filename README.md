@@ -23,4 +23,4 @@ done
 To use this command you must type ./myscript.sh then hit enter and the result is that it will print the numbers 1 through 50 on the terminal.
 # Addidional Notes
 
-What this project has taught me is how to create a bash script and also how to use GitHub.
+What this project has taught me is how to create a bash script and also how to use a GitHub repository.
